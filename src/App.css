@@ -1,0 +1,71 @@
+.firstLine{
+  margin-top: 20px;
+  border-bottom: 2px solid black;
+  font-size: 50px;
+  height: 85px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.sublineHeader{
+  border-bottom: 1px solid black;
+  width: fit-content;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.justBorder{
+  border: 1px solid black;
+  height: 100px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.justBorder2{
+  border: 1px solid black;
+  height: 250px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.loginInfo{
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.loginInfo2{
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.flexMode{  
+  display: flex;
+  flex-direction: row;
+}
+
+.disp{
+  margin-top: 5px;
+}
+
+.getCallNumber{
+  margin-left:40px;
+}
+
+.getQueryType{
+  margin-left:62px;
+}
+
+.getInfo{
+  margin-left:50px;
+}
+
+.getCallerType{
+  margin-left:65px;
+}
+
+.getNotes{
+  margin-left:100px;
+  height: 150px;
+  width: 500px;
+}
