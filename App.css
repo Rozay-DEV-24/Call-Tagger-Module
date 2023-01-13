@@ -1,3 +1,8 @@
+.bodyCenter{
+  justify-content: center;
+  text-align: center;
+}
+
 .firstLine{
   margin-top: 20px;
   border-bottom: 2px solid black;
@@ -48,16 +53,32 @@
   margin-top: 5px;
 }
 
+.getDisplayName{
+  margin-left:50px;
+  width: 295px;  
+}
+
+.getWinId{
+  margin-left:62px;
+  width: 295px;
+}
+
+.getStatNo{
+  margin-left:35px;
+  width: 295px;
+}
 .getCallNumber{
   margin-left:40px;
+  width: 295px;
 }
 
 .getQueryType{
   margin-left:62px;
 }
 
-.getInfo{
+.getCompanyNo{
   margin-left:50px;
+  width: 295px;
 }
 
 .getCallerType{
@@ -66,6 +87,21 @@
 
 .getNotes{
   margin-left:100px;
-  height: 150px;
-  width: 500px;
+  height: 75px;
+  width: 295px;
+}
+
+.buttonSave{
+  background-color: #003399;
+  margin-top: 15px;
+  margin-left: 80px;
+  height: 40px;
+  width: 100px;
+}
+
+.buttonClose{
+  margin-left: 50px;
+  margin-top: 15px;
+  height: 40px;
+  width: 100px;
 }
